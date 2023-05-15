@@ -6,6 +6,6 @@
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.1.0",
     "morgan": "^1.10.0",
-    "tambola-generator": "^1.0.0"
+    
   }
 }
